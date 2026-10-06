@@ -1,16 +1,17 @@
 <div align="center">
 
   <!-- 1. صورة البنر العلوي -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=ZAID%20SHAKHATREH&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=ZAID%20SHAKHATREH&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
 
   <br/><br/>
 
-  <!-- 2. بطاقات الموقع والمعدل / التخصص -->
+  <!-- 2. بطاقات الموقع والتخصص -->
   <img src="https://img.shields.io/badge/LOCATION-AMMAN%2C%20JORDAN-4c1d95?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/FIELD-SOFTWARE%20ENGINEERING-5b21b6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Field" />
+  <img src="https://img.shields.io/badge/FIELD-COMPUTER%20SCIENCE-5b21b6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Field" />
 
   <br/><br/>
 
+  <!-- 3. أزرار الروابط (LinkedIn / Portfolio / Email) -->
   <a href="https://zaid-shakhatreh.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -28,6 +29,7 @@
 
 <br/>
 <hr/>
+
 
 # 💫 About Me:
 🔭 I’m currently working on a management system using C#, ADO.NET, and SQL Server<br>👯 I’m looking to collaborate on robust desktop applications and open-source C# / C++ projects<br>🤝 I’m looking for help with advanced software architecture, design patterns, and database optimization<br>🌱 I’m currently learning advanced Data Structures, Algorithms, and clean code principles<br>💬 Ask me about C++, C#, OOP, and Database Design (SQL Server)<br>⚡ Fun fact: I spend 10% of my time coding and 90% optimizing SQL queries and debugging!
