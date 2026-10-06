@@ -11,12 +11,31 @@
 
   <br/><br/>
 
-  <!-- 3. أزرار الروابط (LinkedIn / Portfolio / Email / GitHub) -->
+  <!-- 3. أزرار الروابط (LinkedIn / Portfolio / Email) -->
   <a href="https://zaid-shakhatreh.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/zaidshakatreh" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zaid.shakatreh@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/zaid-shakhatreh">
+    <img src="https://img.shields.io/badge/GITHUB-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+<br/>
+<hr/>
+
+
+
+
+
+
+
 
 
 # 💫 About Me:
