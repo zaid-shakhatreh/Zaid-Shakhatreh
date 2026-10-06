@@ -18,4 +18,11 @@
 ---
 [![](https://komarev.com/ghpvc/?username=zaid-shakhatreh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **Banking System Application** | `C++` `OOP` `Data Structures` `File Handling` | Robust console-based banking management system handling client accounts, secure transactions, user permissions, and audit logs. | [🔗 Repository](https://github.com/zaid-shakhatreh/BankSystemProject) |
+| **Personal Portfolio** | `HTML5` `CSS3` `JavaScript` | Modern, responsive personal portfolio showcasing my engineering background, featured software projects, and technical skills. | [🌐 Live Demo](https://zaid-shakhatreh.github.io/portfolio/) • [🔗 Repository](https://github.com/zaid-shakhatreh/portfolio) |
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
