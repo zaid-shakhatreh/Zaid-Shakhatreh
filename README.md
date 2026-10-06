@@ -15,7 +15,7 @@
   <a href="https://zaid-shakhatreh.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/zaidshakatreh" target="_blank">
+  <a href="https://www.linkedin.com/in/zaid-shakhatreh-177966324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zaid.shakatreh@gmail.com">
