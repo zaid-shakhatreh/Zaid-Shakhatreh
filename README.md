@@ -31,7 +31,16 @@
 <hr/>
 
 
+<p align="center">
+  <!-- عداد الزيارات Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=zaid-shakhatreh&color=6d28d9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
+  <!-- عداد المتابعين Followers -->
+  <img src="https://img.shields.io/github/followers/zaid-shakhatreh?label=Followers&color=6d28d9&style=flat-square" alt="Followers" />
+
+  <!-- إجمالي النجوم Stars -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=6d28d9&label=stars&query=stars&url=https%3A%2F%2Fapi-github-stats.vercel.app%2Fapi%3Fusername%3Dzaid-shakhatreh&style=flat-square" alt="Total Stars" />
+</p>
 
 
 
