@@ -39,7 +39,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a management system using C#, ADO.NET, and SQL Server<br>👯 I’m looking to collaborate on robust desktop applications and open-source C# / C++ projects<br>🤝 I’m looking for help with advanced software architecture, design patterns, and database optimization<br>🌱 I’m currently learning advanced Data Structures, Algorithms, and clean code principles<br>💬 Ask me about C++, C#, OOP, and Database Design (SQL Server)<br>⚡ Fun fact: I spend 10% of my time coding and 90% optimizing SQL queries and debugging!
+🔭 I’m currently working on a management system using C#, ADO.NET, and SQL Server<br>👯 I’m looking to collaborate on robust desktop applications and open-source C# / C++ projects<br>🤝 I’m looking for help with advanced software architecture, design patterns, and database optimization<br>🌱 I’m currently learning advanced Data Structures, Algorithms, and clean code principles<br>💬 Ask me about C++, C#, OOP,ADO.NET, and Database Design (SQL Server)<br>⚡ Fun fact: I spend 10% of my time coding and 90% optimizing SQL queries and debugging!
 
 
 ## 🌐 Socials:
