@@ -6,8 +6,9 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/LOCATION-IRBID%2C%20JORDAN-4c1d95?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-5b21b6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Role" />
-  <br/><br/>
+<img src="https://img.shields.io/badge/FIELD-SOFTWARE%20DEVELOPER-5b21b6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Field" /> 
+
+<br/><br/>
 
 
   <!-- (LinkedIn) -->
