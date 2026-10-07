@@ -1,15 +1,14 @@
 <div align="center">
 
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=ZAID%20SHAKHATREH&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=ZAID%20SHAKHATREH&fontSize=42&fontAlignY=38&desc=Software%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LOCATION-IRBID%2C%20JORDAN-4c1d95?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-5b21b6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Role" />
   <br/><br/>
 
-  
-  <img src="https://img.shields.io/badge/LOCATION-IRBID%2C%20JORDAN-4c1d95?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/FIELD-COMPUTER%20SCIENCE-5b21b6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Field" />
-
-  <br/><br/>
 
   <!-- (LinkedIn) -->
   <a href="https://zaid-shakhatreh.github.io/my-portfolio/" target="_blank">
