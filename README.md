@@ -1,23 +1,25 @@
 <div align="center">
 
-  <!-- 1. صورة البنر العلوي -->
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=ZAID%20SHAKHATREH&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
 
   <br/><br/>
 
-  <!-- 2. بطاقات الموقع والتخصص -->
+  
   <img src="https://img.shields.io/badge/LOCATION-IRBID%2C%20JORDAN-4c1d95?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/FIELD-COMPUTER%20SCIENCE-5b21b6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Field" />
 
   <br/><br/>
 
-  <!-- 3. أزرار الروابط (LinkedIn / Portfolio / Email) -->
+  <!-- (LinkedIn) -->
   <a href="https://zaid-shakhatreh.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <!-- (Portfolio) -->
   <a href="https://www.linkedin.com/in/zaid-shakhatreh-177966324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- (Email) --> 
   <a href="mailto:zaid.shakatreh@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-5b21b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -32,14 +34,14 @@
 
 
 <p align="center">
-  <!-- عداد الزيارات Profile Views -->
+  <!--Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=zaid-shakhatreh&color=6d28d9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-  <!-- عداد المتابعين Followers -->
+  <!--Followers -->
   <img src="https://img.shields.io/github/followers/zaid-shakhatreh?label=Followers&color=6d28d9&style=flat-square" alt="Followers" />
 
-  <!-- إجمالي النجوم Stars -->
-  <img src="https://img.shields.io/badge/dynamic/json?color=6d28d9&label=stars&query=stars&url=https%3A%2F%2Fapi-github-stats.vercel.app%2Fapi%3Fusername%3Dzaid-shakhatreh&style=flat-square" alt="Total Stars" />
+  <!--Stars -->
+  <img src="https://img.shields.io/github/stars/zaid-shakhatreh/BankSystemProject?label=stars&color=6d28d9&style=flat-square" alt="stars" />
 </p>
 
 
