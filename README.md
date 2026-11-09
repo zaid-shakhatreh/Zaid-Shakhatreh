@@ -75,4 +75,5 @@
 | :--- | :--- | :--- | :--- |
 | **TRAFICON** | `C#` `.NET Framework` `ADO.NET` `SQL Server` `Guna UI2` | Comprehensive desktop application designed to automate traffic administration, driving license management, multi-stage exams, and renewals. | [🔗 Repository](https://github.com/zaid-shakhatreh/TRAFICON-Project) |
 | **Banking System Application** | `C++` `OOP` `Data Structures` `File Handling` | Robust console-based banking management system handling client accounts, secure transactions, user permissions, and audit logs. | [🔗 Repository](https://github.com/zaid-shakhatreh/BankSystemProject) |
-| **Personal Portfolio** | `HTML5` `CSS3` `JavaScript` | Modern, responsive personal portfolio showcasing my engineering background, featured software projects, and technical skills.
+| **Personal Portfolio** | `HTML5` `CSS3` `JavaScript` | Modern, responsive personal portfolio showcasing my engineering background, featured software projects, and technical skills. | [🌐 Live Demo](https://zaid-shakhatreh.github.io/my-portfolio/) • [🔗 Repository](https://github.com/zaid-shakhatreh/my-portfolio) |
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
